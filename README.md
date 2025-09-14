@@ -1,19 +1,28 @@
 # GUI-Based Quiz Management System
 
-A Tkinter-based quiz application with:
-- Automated scoring and input validation
-- Global countdown timer (30s per question)
-- Interactive question/answer display
-- Post-quiz performance reports
+A Tkinter-based desktop quiz application that allows users to create, preview, and take multiple-choice quizzes.  
+Features include automated scoring, input validation, a global countdown timer, and post-quiz performance reports.  
 
-## Features
+## 🎯 Features
 - Create quizzes with multiple-choice questions (4 options each)
-- Preview quizzes and correct answers
-- Take quizzes with timed sessions
-- Review incorrect answers at the end
+- Input validation to ensure valid questions, choices, and answers
+- Take timed quizzes (30 seconds per question)
+- Automated scoring with percentage calculation
+- Post-quiz review showing incorrect answers and correct solutions
+- Object-Oriented Design with modular `Quiz` and `Quiz_item` classes
 
-## Installation
+---
+
+## 🛠️ Tech Stack
+- **Language:** Python 3  
+- **GUI Framework:** Tkinter  
+- **Paradigm:** Object-Oriented Programming  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 ```bash
 git clone https://github.com/p24kumar/GUI-Based-Quiz-Management-System.git
 cd GUI-Based-Quiz-Management-System
-python3 tkinter_base.py
