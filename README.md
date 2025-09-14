@@ -27,5 +27,3 @@ Features include automated scoring, input validation, a global countdown timer, 
 git clone https://github.com/p24kumar/GUI-Based-Quiz-Management-System.git
 cd GUI-Based-Quiz-Management-System
 
-### 2. Run the application
-python3 GUI_Based_Quiz_Management_System.py
